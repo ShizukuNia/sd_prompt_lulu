@@ -14,7 +14,7 @@ masterpiece, best quality, illustration, anime, screenshot, anime screenshot,  d
 
 ```prompt
 1girl, chibi, solo, blue sapphire eyes, short silver hair,
-grey cardigan, white sailor_collar, black shirt, pleated skirt,
+grey cardigan, white sailor_collar, black shirt, pleated skirt, black beret
 ```
 
 偶像服
