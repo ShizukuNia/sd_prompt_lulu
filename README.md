@@ -21,7 +21,7 @@ grey cardigan, white sailor_collar, black shirt, pleated skirt, black beret，
 
 ```prompt
 1girl, chibi, solo, blue sapphire eyes, silver hair,  voluminous hair, straight bang, twisted braid,hemp braid, 
-frills, dress, blue_bow, choker
+frills, white dress, blue_bow, choker, white beret,
 ```
 
 运动服
