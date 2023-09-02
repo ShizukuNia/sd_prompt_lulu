@@ -6,7 +6,9 @@
 masterpiece, best quality, illustration, anime, screenshot, anime screenshot,  dynamic angle, 
 ```
 
-## Q版lulu形象基础prompt
+## lulu形象基础prompt
+
+**chibi是Q版形象的tag**
 
 学生制服
 
