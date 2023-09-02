@@ -38,7 +38,7 @@ frills, white dress, blue_bow, choker, white beret,
 ```prompt
 1girl, chibi, solo, blue sapphire eyes, silver long hair, straight bang,
 wavy hair, low twintails, //双马尾
-white blouse, aqua jacket, white skirt,
+white blouse, blue jacket, white skirt,
 ```
 
 粉色小裙子
