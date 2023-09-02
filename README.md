@@ -54,6 +54,8 @@ serafuku, school_uniform, red bow, blue_headwear, puffy_sleeves, juliet_sleeves,
 
 ## 彩漆风格
 
+自用的正常比例绘画风格，在final-pruned模型上效果奇佳
+
 专用的negative prompt
 
 ```prompt
@@ -63,6 +65,8 @@ ui,  watermark, username, 3D, 3D games, 3D game scene, 3D character,
 bad hairs, poorly drawn hairs, fused hairs, big muscles, ugly, bad face, fused face, poorly drawn face, cloned face, big face, long face, bad eyes, fused eyes, poorly drawn eyes,
 Sapphire, (braid), brush, (Ponytail)
 ```
+
+下面的还没整理，随便挑一块就能用
 
 ```prompt
 (Floating, paint, colorful background, high saturation, surrounded by colorful splashes, surrounded by colorful dot, colorful bubble, shining:1.3),
