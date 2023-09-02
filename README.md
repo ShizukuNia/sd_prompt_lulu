@@ -14,7 +14,7 @@ masterpiece, best quality, illustration, anime, screenshot, anime screenshot,  d
 
 ```prompt
 1girl, chibi, solo, blue sapphire eyes, short silver hair,
-grey cardigan, white sailor_collar, black shirt, pleated skirt, black beret，
+grey cardigan,serafuku, school_uniform, white sailor_collar, black shirt, pleated skirt, black beret，
 ```
 
 偶像服
@@ -42,7 +42,7 @@ white blouse, aqua windbreaker, white skirt,
 
 ```prompt
 1girl, chibi, solo, blue eyes, silver long hair, wavy hair, low twintails,straight bang, 
-red bow, blue_headwear, puffy_sleeves, juliet_sleeves, dress
+serafuku, school_uniform, red bow, blue_headwear, puffy_sleeves, juliet_sleeves, dress
 ```
 
 ## 彩漆风格
