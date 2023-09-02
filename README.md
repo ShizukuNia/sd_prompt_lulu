@@ -24,6 +24,8 @@ grey cardigan, serafuku, school_uniform, white sailor_collar, black shirt, pleat
 serafuku, white sailor_collar, white shirt, pleated skirt, white beret，
 ```
 
+**裙子看细节程度可以加*plaid skirt***
+
 偶像服
 
 ```prompt
