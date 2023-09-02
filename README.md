@@ -14,7 +14,7 @@ masterpiece, best quality, illustration, anime, screenshot, anime screenshot,  d
 
 ```prompt
 1girl, chibi, solo, blue sapphire eyes, short silver hair,
-grey cardigan, serafuku, school_uniform, white sailor_collar, black shirt, pleated skirt, black beret，
+grey cardigan, white sailor_collar, black shirt, pleated skirt, black beret，
 ```
 
 学生制服 夏ver.
